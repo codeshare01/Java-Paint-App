@@ -1,13 +1,13 @@
 # Java-Paint-App
 A desktop paint app developed using Java.
 
-Features
+Features : 
  *Paint by dragging mouse/touchpad.
  *Change background colour.
  *Change pen colour.
  *Change the size of the pen.
  
-Instructions 
+Instructions : 
 *Run LetsPaintJFrame.java
 *Enjoy
  
